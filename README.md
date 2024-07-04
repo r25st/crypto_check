@@ -1,6 +1,5 @@
 # Crypto Check
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Overview
 
