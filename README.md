@@ -20,3 +20,7 @@ To run Crypto Check locally, follow these steps:
    ```bash
    git clone https://github.com/r25st/crypto_check.git
    cd crypto_check
+
+## NOTE
+
+For api key go to CoinLib to retrive it
