@@ -23,4 +23,4 @@ To run Crypto Check locally, follow these steps:
 
 ## NOTE
 
-For api key go to CoinLib to retrive it
+For api key go to CoinLib to retrieve it
